@@ -8,4 +8,4 @@ We used a classical screening method assisted with Hadamard matrices. The conclu
 
 This paper anyway illustrates the interest of having a rational very approach with the CVD (Chemical Vapor Deposition) in general, just like microelectronic industry massively using the DOE method to optimize this kind of process.
 
-This work was possible thanks to 陈丹莹 (Chen DanYing), Gaël Giusti, Thomas Coughlan, and Mikhail Chubarov, outstanding students and now friends.
+This work was possible thanks to 陈丹莹 (Chen DanYing), Gaël Giusti, Thomas Coughlan, and Mikhail Chubarov, outstanding students and colleagues.
