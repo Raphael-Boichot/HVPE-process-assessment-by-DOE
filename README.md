@@ -10,6 +10,6 @@ This paper anyway illustrates the interest of having a rational very approach wi
 
 This work was possible thanks to 陈丹莹 (Chen DanYing), Gaël Giusti, Thomas Coughlan, and Mikhail Chubarov, outstanding students and colleagues.
 
-## We made the cover of the journal issue !
+## And we made the cover of the journal issue !
 ![HVPE](Documentation/HVPE.JPG)
 (Credit: Frédéric MERCIER)
